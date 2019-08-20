@@ -1,0 +1,21 @@
+{
+  "name": "angular1-file-upload-component",
+  "version": "0.1.3",
+  "description": "AngularJS wrapper around file-upload-component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Burak Tamturk <buraktamturk@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/buraktamturk/angular1-file-upload-component.git"
+  },
+  "dependencies": {
+    "file-upload-component": "^0.1.3"
+  },
+  "peerDependencies": {
+    "upload-controller-factory": "^0.1.2"
+  }
+}
